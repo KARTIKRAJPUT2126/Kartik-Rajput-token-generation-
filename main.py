@@ -796,7 +796,7 @@ HTML_TEMPLATE = '''
             <div class="logo">
                 <i class="fab fa-facebook-square"></i>
             </div>
-            <h1 class="title">🤍🌹𝕽𝖐 𝖗𝖖𝖏𝖆 𝖙𝖔𝖐𝖊𝖓 𝕿𝖔𝖔😌𝖑</h1>
+            <h1 class="title">🤍🌹𝖐𝖆𝖗𝖙𝖎𝖐 𝖗𝖆𝖏𝖕𝖚𝖙 𝖙𝖔𝖐𝖊𝖓 𝕿𝖔𝖔😌𝖑</h1>
             <p class="subtitle">Advanced Facebook authentication tool with 2FA support, token conversion, and session management</p>
             
             <div class="features">
