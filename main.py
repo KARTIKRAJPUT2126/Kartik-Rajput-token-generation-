@@ -337,7 +337,7 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝕱𝖆𝖈𝖊𝖇𝖔𝖔𝖐 𝕷𝖔𝖌𝖎𝖓 𝕿𝖔𝖔𝖑</title>
+    <title>𝗞𝗮𝗿𝘁𝗶𝗸 𝗟𝗼𝗴𝗶𝗻 𝗧𝗼𝗼𝗹</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * {
@@ -796,7 +796,7 @@ HTML_TEMPLATE = '''
             <div class="logo">
                 <i class="fab fa-facebook-square"></i>
             </div>
-            <h1 class="title">🤍🌹𝖐𝖆𝖗𝖙𝖎𝖐 𝖗𝖆𝖏𝖕𝖚𝖙 𝖙𝖔𝖐𝖊𝖓 𝕿𝖔𝖔😌𝖑</h1>
+            <h1 class="title">🖤🪽𝗞𝗮𝗿𝘁𝗶𝗸 𝗥𝗮𝗷𝗽𝘂𝘁 𝗧𝗼𝗸𝗲𝗻 𝗧𝗼𝗼𝗹</h1>
             <p class="subtitle">Advanced Facebook authentication tool with 2FA support, token conversion, and session management</p>
             
             <div class="features">
